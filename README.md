@@ -38,8 +38,9 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
+![PAPRNG3](https://user-images.githubusercontent.com/110892250/186109659-54723499-a508-4385-8ecd-bc080e7a66d7.png)
 
-![PAPRNG1](https://user-images.githubusercontent.com/110892250/186093090-9d339143-97b8-442f-8cce-3ca272d660b6.png)
+
 
 
 
