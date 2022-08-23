@@ -48,8 +48,11 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |27.10.2022|Stefan Jesenko|Ein random number generator der eine Zahl zwischen 1 und 100 generiert.|30 min|
+| 2.A  |28.10.2022|Stefan Jesenko|Der User kann ein Zahl eingeben.|30min|
+| 3.A  |30.10.2022|Stefan Jesenko|Es wird geprüft ob die eingegebene Zahl mit der zufälligen Zahl übereinstimmt.|1h|
+| 4.A  |30.10.2022|Stefan Jesenko|Es wird mir gezeigt ob die eingegebene Zahl grösser oder kleiner ist als die zufällige Zahl.|2h|
+| 5.A  |       |Stefan Jesenko|Die Farbe der Schrift kann geändert werden|5h|
 
 Total: 
 
