@@ -1,6 +1,5 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
 Stefan Jesenko
 
@@ -26,16 +25,18 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 4    |muss             |Funktional|Als User möchte ich, dass mir das Spiel sagt, ob meine Zahl grösser oder kleiner als die zufällige Zahl ist, damit ich nicht 100-mal raten muss.|
 | 5    | kann            | Qualität | Als User möchte ich, dass ich die Farbe des Textes ändern kann, damit das Spiel für mich schöner aussieht.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+| 1.1  |Applikation gestartet: warte auf User Eingabe|"Zahl"|"Bitte geben Sie eine Zahl von 1 bis 100 ein".|
+| 1.2  |Applikation gestartet: warte auf User Eingabe|"200"|"Bitte geben Sie eine Zahl von 1 bis 100 ein.|
+| 1.3  |Applikation gestartet: Warte auf User Eingabe.|"15" |" "|
+| 2.1  |Applikation gestartet: Führt RNG aus.|" "|zufällige Zahl 1-100|
+| 3.1  |zufällige Zahl und eingegebene Zahl sind bestimmt: Fürt Zahlenvergleich aus.|"zufällige Zahl und eingegebene Zahl."| gibt aus, ob die Zahlen gleich sind oder nicht.|
+| 4.1  |Applikation gestartet: Führt Zahlenvergleich aus.|"zufällige Zahl und eingegebene Zahl."| wenn die Zahlen nicht gleich sind, wird ausgegeben, ob die eingegebene Zahl grösser oder kleiner ist als die zufällige Zahl.|
+| 5.1  |Applikation wurde durchgeführt|" "| Die Textfarbe sollte in einer anderen Farbe sein.|
 
 ### 1.4 Diagramme
 ![PAPRNG3](https://user-images.githubusercontent.com/110892250/186109659-54723499-a508-4385-8ecd-bc080e7a66d7.png)
@@ -48,11 +49,11 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |27.10.2022|Stefan Jesenko|Eine zufällige Nummer zwischen 1 und 100 generieren.|30 min|
-| 2.A  |28.10.2022|Stefan Jesenko|Der User kann eine Zahl eingeben.|30min|
-| 3.A  |30.10.2022|Stefan Jesenko|Es wird geprüft, ob die eingegebene Zahl mit der zufälligen Zahl übereinstimmt.|1h|
-| 4.A  |30.10.2022|Stefan Jesenko|Es wird mir gezeigt, ob die eingegebene Zahl grösser oder kleiner ist als die zufällige Zahl.|2h|
-| 5.A  |       |Stefan Jesenko|Die Farbe der Schrift kann geändert werden|5h|
+| 1.A  |30.08.2022|Stefan Jesenko|Eine zufällige Nummer zwischen 1 und 100 generieren.|30 min|
+| 2.A  |30.08.2022|Stefan Jesenko|Der User kann eine Zahl eingeben.|30min|
+| 3.A  |30.08.2022|Stefan Jesenko|Es wird geprüft, ob die eingegebene Zahl mit der zufälligen Zahl übereinstimmt.|1h|
+| 4.A  |06.09.2022|Stefan Jesenko|Es wird mir gezeigt, ob die eingegebene Zahl grösser oder kleiner ist als die zufällige Zahl.|1h|
+| 5.A  |06.09.2022|Stefan Jesenko|Die Farbe der Schrift kann geändert werden|3h|
 
 Total: 
 
