@@ -6,7 +6,7 @@ Stefan Jesenko
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |23.08.2022| 0.0.1|Heute habe ich zum ersten mal an diesem Projekt gearbeitet ich habe heute den ersten Teil der Projekt Dokumentation geschrieben und ein PAP zum RNG spiel gemacht.|
-| 23.08.2022|0.0.2|                                                              |
+| 23.08.2022|0.0.2|Heute habe ich meinen random number generator Fertig geschrieben und alle User storys umgesätzt.|
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -67,10 +67,13 @@ Ich habe mich entschieden das ich als zusätzliche User story hinzufüge das ich
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 30.08.2022|Stefan Jesenko| 30min|10min|
+| 2.A  | 30.08.2022|Stefan Jesenko| 30min|5min |
+| 3.A  | 30.08.2022|Stefan Jesenko| 1h   |30min|
+| 4.A  | 30.08.2022|Stefan Jesenko| 1h   |30min|
+| 5.A  | 30.08.2022|Stefan Jesenko| 3h   |10min|
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
