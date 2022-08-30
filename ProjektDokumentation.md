@@ -5,8 +5,8 @@ Stefan Jesenko
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|23.08.2022| 0.0.1|Heute habe wir zum ersten mal an diesem Projekt gearbeitet ich habe heute den ersten Teil der Projekt Dokumentation geschrieben und ein PAP zum RNG spiel gemacht.|
-|       | ...     |                                                              |
+|23.08.2022| 0.0.1|Heute habe ich zum ersten mal an diesem Projekt gearbeitet ich habe heute den ersten Teil der Projekt Dokumentation geschrieben und ein PAP zum RNG spiel gemacht.|
+| 23.08.2022|0.0.2|                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
