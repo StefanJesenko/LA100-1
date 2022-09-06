@@ -28,6 +28,7 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 7    | kann            | Qualität | Als User möchte ich den Zahlenbereich in dem ich rate selber wehlen.|
 | 8    | kann            | muss     | Als User möchte ich, dass wenn ich etwas anderes als eine Zahl in dem gewünschten Zahlenbereich eingebe dass eine Meldung kommt, dass ich eine neue Zahl eingeben soll.|
 | 9    | kann            | Qualität| Als User möchte ich, dass ich am ende sehe, wie lange ich gebraucht habe.|
+| 10   | kann            | Qualität| Als User möchte gefragt werde, ob ich nocheinmal spielen will.|
 
 
 ### 1.3 Testfälle
@@ -47,7 +48,11 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 7.1  |Applikation gestartet, wartet auf Input.|"500"|"Geben Sie eine Zahl zwischen 1 - 500 ein: "|
 | 8.1  |Applikation gestartet, wartet auf Input.|"Banane"|"Geben Sie eine Zahl ein: "|
 | 8.2  |Applikation gestartet, wartet auf Input, Zahlenbereich ist 1 - 500|"1000"|"Geben Sie eine Zahl ein: "|
-| 9.1  |Applikation durgeführt|" "||"Sie haben 13 sekunden gebraucht "|
+| 9.1  |Applikation durchgeführt|" "|"Sie haben 13 sekunden gebraucht "|
+| 10.1 |Applikation durchgeführt, wartet auf Eingabe|" "|"Wollen Sie weiter spielen (ja/nein)? "|
+| 10.1 |Applikation durchgeführt|"ja"|"In welchem Zahlenbereich wollen Sie raten? "|
+| 10.2 |Applikation durchgeführt|"nein"|Programm Ende|
+| 10.3 |Applikation durchgeführt|"Banane"|"Wollen Sie weiter spielen (ja/nein)? "|
 
 ### 1.4 Diagramme
 ![PAPRNG3](https://user-images.githubusercontent.com/110892250/186109659-54723499-a508-4385-8ecd-bc080e7a66d7.png)
@@ -69,6 +74,7 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 7.A  |06.09.2022|Stefan Jesenko|Den Zahlenbereich wählen können.| 30min|
 | 8.A  |06.09.2022|Stefan Jesenko|Falsche Eingaben fragen nach einer neuen Eingabe.|1h|
 | 9.A  |06.09.2022|Stefan Jesenko|Es wird gemessen wie lange man braucht um die Zahl zu erraten.|30min|
+| 10.A |06.09.2022|Stefan Jesenko|Es wird gefragt ob man nocheinmal spielen will.|30min|
 
 Total: 8
 
@@ -90,6 +96,8 @@ Ich habe mich entschieden, dass ich als zusätzliche User story hinzufüge das i
 | 6.A  | 06.09.2022|Stefan Jesenko| 5min |5min |
 | 7.A  | 06.09.2022|Stefan Jesenko| 30min|20min|
 | 8.A  | 06.09.2022|Stefan Jesenko| 1h   |40min|
+| 9.A  | 06.09.2022|Stefan Jesenko| 30min|10min|
+|10.A  | 06.09.2022|Stefan Jesenko| 30min|20min|
 
 
 
