@@ -37,12 +37,12 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 1.2  |Applikation gestartet: warte auf User Eingabe|"200"|"Bitte geben Sie eine Zahl von 1 bis 100 ein.|
 | 1.3  |Applikation gestartet: Warte auf User Eingabe.|"15" |" "|
 | 2.1  |Applikation gestartet: Führt RNG aus.|" "|zufällige Zahl 1-100|
-| 3.1  |zufällige Zahl und eingegebene Zahl sind bestimmt: Fürt Zahlenvergleich aus.|"Zahlen Eingabe"| "Die Zahlen sind nicht gleich"|
+| 3.1  |zufällige Zahl und eingegebene Zahl sind bestimmt: Führt Zahlenvergleich aus.|"Zahlen Eingabe"| "Die Zahlen sind nicht gleich"|
 | 3.2  | zufällige Zahl und eingegebene Zahl sind bestimmt: Führt Zahlenvergleich aus.|"Zahlen Eingabe"|"Die Zahlen sind gleich"|
 | 4.1  |Applikation gestartet: Führt Zahlenvergleich aus.|"Zahlen Eingabe"|"Die Zahl ist zu gross."|
 | 4.2  |Applikation gestartet: Führt Zahlenvergleich aus.|"Zahlen Eingabe"|"Die Zahl ist zu klein."|
 | 5.1  |Applikation wurde gestartet|" "| Die Textfarbe sollte in einer anderen Farbe sein.|
-| 6.1  |Applikation wurde durchgeführt|" "|"Sie haben 13 versuche gebraucht."|
+| 6.1  |Applikation wurde durchgeführt|" "|"Sie haben 13 Versuche gebraucht."|
 | 7.1  |Applikation gestartet, wartet auf Input.|"500"|"Geben Sie eine Zahl zwischen 1 - 500 ein: "|
 | 8.1  |Applikation gestartet, wartet auf Input.|"Banane"|"Geben Sie eine Zahl ein: "|
 | 8.2  |Applikation gestartet, wartet auf Input, Zahlenbereich ist 1 - 500|"1000"|"Geben Sie eine Zahl ein: "|
@@ -64,9 +64,9 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 3.A  |30.08.2022|Stefan Jesenko|Es wird geprüft, ob die eingegebene Zahl mit der zufälligen Zahl übereinstimmt.|1h|
 | 4.A  |06.09.2022|Stefan Jesenko|Es wird mir gezeigt, ob die eingegebene Zahl grösser oder kleiner ist als die zufällige Zahl.|1h|
 | 5.A  |06.09.2022|Stefan Jesenko|Die Farbe der Schrift kann geändert werden|3h|
-| 6.A  |06.09.2022|Stefan Jesenko|Die Anzahl der Verusche anzeigen.|5 min|
+| 6.A  |06.09.2022|Stefan Jesenko|Die Anzahl der Veruche anzeigen.|5 min|
 | 7.A  |06.09.2022|Stefan Jesenko|Den Zahlenbereich wählen können.| 30min|
-| 8.A  |06.09.2022|Stefan Jesenko|Falsche eingaben fragen nach einer neuen Eingabe.|1h|
+| 8.A  |06.09.2022|Stefan Jesenko|Falsche Eingaben fragen nach einer neuen Eingabe.|1h|
 
 Total: 8
 
@@ -74,7 +74,7 @@ Total: 8
 
 ## 3 Entscheiden
 
-Ich habe mich entschieden das ich als zusätzliche User story hinzufüge das ich den Text umfärben kann.
+Ich habe mich entschieden, dass ich als zusätzliche User story hinzufüge das ich den Text umfärben kann.
 
 ## 4 Realisieren
 
