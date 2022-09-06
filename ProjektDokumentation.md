@@ -27,6 +27,7 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 6    | kann            | Qualität | Als User möchte ich, dass mir Angezeigt wird wie viele Versuche ich gebraucht habe.|
 | 7    | kann            | Qualität | Als User möchte ich den Zahlenbereich in dem ich rate selber wehlen.|
 | 8    | kann            | muss     | Als User möchte ich, dass wenn ich etwas anderes als eine Zahl in dem gewünschten Zahlenbereich eingebe dass eine Meldung kommt, dass ich eine neue Zahl eingeben soll.|
+| 9    | kann            | Qualität| Als User möchte ich, dass ich am ende sehe, wie lange ich gebraucht habe.|
 
 
 ### 1.3 Testfälle
@@ -46,7 +47,7 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 7.1  |Applikation gestartet, wartet auf Input.|"500"|"Geben Sie eine Zahl zwischen 1 - 500 ein: "|
 | 8.1  |Applikation gestartet, wartet auf Input.|"Banane"|"Geben Sie eine Zahl ein: "|
 | 8.2  |Applikation gestartet, wartet auf Input, Zahlenbereich ist 1 - 500|"1000"|"Geben Sie eine Zahl ein: "|
-
+| 9.1  |Applikation durgeführt|" "||"Sie haben 13 sekunden gebraucht "|
 
 ### 1.4 Diagramme
 ![PAPRNG3](https://user-images.githubusercontent.com/110892250/186109659-54723499-a508-4385-8ecd-bc080e7a66d7.png)
@@ -67,6 +68,7 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 6.A  |06.09.2022|Stefan Jesenko|Die Anzahl der Veruche anzeigen.|5 min|
 | 7.A  |06.09.2022|Stefan Jesenko|Den Zahlenbereich wählen können.| 30min|
 | 8.A  |06.09.2022|Stefan Jesenko|Falsche Eingaben fragen nach einer neuen Eingabe.|1h|
+| 9.A  |06.09.2022|Stefan Jesenko|Es wird gemessen wie lange man braucht um die Zahl zu erraten.|30min|
 
 Total: 8
 
@@ -85,6 +87,9 @@ Ich habe mich entschieden, dass ich als zusätzliche User story hinzufüge das i
 | 3.A  | 30.08.2022|Stefan Jesenko| 1h   |30min|
 | 4.A  | 30.08.2022|Stefan Jesenko| 1h   |30min|
 | 5.A  | 30.08.2022|Stefan Jesenko| 3h   |10min|
+| 6.A  | 06.09.2022|Stefan Jesenko| 5min |5min |
+| 7.A  | 06.09.2022|Stefan Jesenko| 30min|20min|
+| 8.A  | 06.09.2022|Stefan Jesenko| 1h   |40min|
 
 
 
