@@ -24,6 +24,10 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 3    |muss             |Funktional|Als User möchte ich das überprüft wird ob meine eingegebene Zahl mit der zufälligen Zahl übereinstimmt, damit ich erfahre, ob ich gewonnen habe.|
 | 4    |muss             |Funktional|Als User möchte ich, dass mir das Spiel sagt, ob meine Zahl grösser oder kleiner als die zufällige Zahl ist, damit ich nicht 100-mal raten muss.|
 | 5    | kann            | Qualität | Als User möchte ich, dass ich die Farbe des Textes ändern kann, damit das Spiel für mich schöner aussieht.|
+| 6    | kann            | Qualität | Als User möchte ich, dass mir Angezeigt wird wie viele Versuche ich gebraucht habe.|
+| 7    | kann            | muss     | Als User möchte ich, dass wenn ich etwas anderes als eine Zahl in dem gewünschten Zahlenbereich eingebe dass eine Meldung kommt, dass ich eine neue Zahl eingeben soll.|
+| 8    | kann            | Qualität | Als User möchte ich den Bereich in dem ich raten kann selber wählen.|
+
 
 
 ### 1.3 Testfälle
