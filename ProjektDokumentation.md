@@ -6,7 +6,7 @@ Stefan Jesenko
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |23.08.2022| 0.0.1|Heute habe ich zum ersten mal an diesem Projekt gearbeitet ich habe heute den ersten Teil der Projekt Dokumentation geschrieben und ein PAP zum RNG spiel gemacht.|
-| 23.08.2022|0.0.2|Heute habe ich meinen random number generator Fertig geschrieben und alle User storys umgesätzt.|
+| 23.08.2022|0.0.2|Heute habe ich meinen random number generator Fertig geschrieben und alle User storys bis 5 umgesätzt.|
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
