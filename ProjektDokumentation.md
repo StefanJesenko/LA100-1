@@ -64,6 +64,9 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 3.A  |30.08.2022|Stefan Jesenko|Es wird geprüft, ob die eingegebene Zahl mit der zufälligen Zahl übereinstimmt.|1h|
 | 4.A  |06.09.2022|Stefan Jesenko|Es wird mir gezeigt, ob die eingegebene Zahl grösser oder kleiner ist als die zufällige Zahl.|1h|
 | 5.A  |06.09.2022|Stefan Jesenko|Die Farbe der Schrift kann geändert werden|3h|
+| 6.A  |06.09.2022|Stefan Jesenko|Die Anzahl der Verusche anzeigen.|5 min|
+| 7.A  |06.09.2022|Stefan Jesenko|Den Zahlenbereich wählen können.| 30min|
+| 8.A  |06.09.2022|Stefan Jesenko|Falsche eingaben fragen nach einer neuen Eingabe.|1h|
 
 Total: 8
 
