@@ -5,8 +5,8 @@ Stefan Jesenko
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|23.08.2022| 0.0.1|Heute habe ich zum ersten mal an diesem Projekt gearbeitet ich habe heute den ersten Teil der Projekt Dokumentation geschrieben und ein PAP zum RNG spiel gemacht.|
-| 23.08.2022|0.0.2|Heute habe ich meinen random number generator Fertig geschrieben und alle User storys bis 5 umgesätzt.|
+|23.08.2022| 0.0.1|Heute habe ich zum ersten Mal an diesem Projekt gearbeitet, ich habe heute den ersten Teil der Projektdokumentation geschrieben und ein PAP zum RNG Spiel gemacht.|
+| 23.08.2022|0.0.2|Heute habe ich meinen random number Generator Fertig geschrieben und alle User storys bis 5 umgesetzt.|
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -28,7 +28,7 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 7    | kann            | Qualität | Als User möchte ich den Zahlenbereich in dem ich rate selber wehlen.|
 | 8    | kann            | muss     | Als User möchte ich, dass wenn ich etwas anderes als eine Zahl in dem gewünschten Zahlenbereich eingebe dass eine Meldung kommt, dass ich eine neue Zahl eingeben soll.|
 | 9    | kann            | Qualität| Als User möchte ich, dass ich am ende sehe, wie lange ich gebraucht habe.|
-| 10   | kann            | Qualität| Als User möchte gefragt werde, ob ich nocheinmal spielen will.|
+| 10   | kann            | Qualität| Als User möchte gefragt werde, ob ich noch einmal spielen will.|
 
 
 ### 1.3 Testfälle
@@ -48,10 +48,10 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 7.1  |Applikation gestartet, wartet auf Input.|"500"|"Geben Sie eine Zahl zwischen 1 - 500 ein: "|
 | 8.1  |Applikation gestartet, wartet auf Input.|"Banane"|"Geben Sie eine Zahl ein: "|
 | 8.2  |Applikation gestartet, wartet auf Input, Zahlenbereich ist 1 - 500|"1000"|"Geben Sie eine Zahl ein: "|
-| 9.1  |Applikation durchgeführt|" "|"Sie haben 13 sekunden gebraucht "|
+| 9.1  |Applikation durchgeführt|" "|"Sie haben 13 Sekunden gebraucht "|
 | 10.1 |Applikation durchgeführt, wartet auf Eingabe|" "|"Wollen Sie weiter spielen (ja/nein)? "|
 | 10.1 |Applikation durchgeführt|"ja"|"In welchem Zahlenbereich wollen Sie raten? "|
-| 10.2 |Applikation durchgeführt|"nein"|Programm Ende|
+| 10.2 |Applikation durchgeführt|"nein"|Programmende|
 | 10.3 |Applikation durchgeführt|"Banane"|"Wollen Sie weiter spielen (ja/nein)? "|
 
 ### 1.4 Diagramme
@@ -70,11 +70,11 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 3.A  |30.08.2022|Stefan Jesenko|Es wird geprüft, ob die eingegebene Zahl mit der zufälligen Zahl übereinstimmt.|1h|
 | 4.A  |06.09.2022|Stefan Jesenko|Es wird mir gezeigt, ob die eingegebene Zahl grösser oder kleiner ist als die zufällige Zahl.|1h|
 | 5.A  |06.09.2022|Stefan Jesenko|Die Farbe der Schrift kann geändert werden|3h|
-| 6.A  |06.09.2022|Stefan Jesenko|Die Anzahl der Veruche anzeigen.|5 min|
+| 6.A  |06.09.2022|Stefan Jesenko|Die Anzahl der Versuche anzeigen.|5 min|
 | 7.A  |06.09.2022|Stefan Jesenko|Den Zahlenbereich wählen können.| 30min|
 | 8.A  |06.09.2022|Stefan Jesenko|Falsche Eingaben fragen nach einer neuen Eingabe.|1h|
-| 9.A  |06.09.2022|Stefan Jesenko|Es wird gemessen wie lange man braucht um die Zahl zu erraten.|30min|
-| 10.A |06.09.2022|Stefan Jesenko|Es wird gefragt ob man nocheinmal spielen will.|30min|
+| 9.A  |06.09.2022|Stefan Jesenko|Es wird gemessen wie lange man braucht, um die Zahl zu erraten.|30min|
+| 10.A |06.09.2022|Stefan Jesenko|Es wird gefragt, ob man noch einmal spielen will.|30min|
 
 Total: 8
 
