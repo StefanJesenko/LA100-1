@@ -25,9 +25,8 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 4    |muss             |Funktional|Als User möchte ich, dass mir das Spiel sagt, ob meine Zahl grösser oder kleiner als die zufällige Zahl ist, damit ich nicht 100-mal raten muss.|
 | 5    | kann            | Qualität | Als User möchte ich, dass ich die Farbe des Textes ändern kann, damit das Spiel für mich schöner aussieht.|
 | 6    | kann            | Qualität | Als User möchte ich, dass mir Angezeigt wird wie viele Versuche ich gebraucht habe.|
-| 7    | kann            | muss     | Als User möchte ich, dass wenn ich etwas anderes als eine Zahl in dem gewünschten Zahlenbereich eingebe dass eine Meldung kommt, dass ich eine neue Zahl eingeben soll.|
-| 8    | kann            | Qualität | Als User möchte ich den Bereich in dem ich raten kann selber wählen.|
-
+| 7    | kann            | Qualität | Als User möchte ich den Zahlenbereich in dem ich rate selber wehlen.|
+| 8    | kann            | muss     | Als User möchte ich, dass wenn ich etwas anderes als eine Zahl in dem gewünschten Zahlenbereich eingebe dass eine Meldung kommt, dass ich eine neue Zahl eingeben soll.|
 
 
 ### 1.3 Testfälle
@@ -38,9 +37,16 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 1.2  |Applikation gestartet: warte auf User Eingabe|"200"|"Bitte geben Sie eine Zahl von 1 bis 100 ein.|
 | 1.3  |Applikation gestartet: Warte auf User Eingabe.|"15" |" "|
 | 2.1  |Applikation gestartet: Führt RNG aus.|" "|zufällige Zahl 1-100|
-| 3.1  |zufällige Zahl und eingegebene Zahl sind bestimmt: Fürt Zahlenvergleich aus.|"zufällige Zahl und eingegebene Zahl."| gibt aus, ob die Zahlen gleich sind oder nicht.|
-| 4.1  |Applikation gestartet: Führt Zahlenvergleich aus.|"zufällige Zahl und eingegebene Zahl."| wenn die Zahlen nicht gleich sind, wird ausgegeben, ob die eingegebene Zahl grösser oder kleiner ist als die zufällige Zahl.|
-| 5.1  |Applikation wurde durchgeführt|" "| Die Textfarbe sollte in einer anderen Farbe sein.|
+| 3.1  |zufällige Zahl und eingegebene Zahl sind bestimmt: Fürt Zahlenvergleich aus.|"Zahlen Eingabe"| "Die Zahlen sind nicht gleich"|
+| 3.2  | zufällige Zahl und eingegebene Zahl sind bestimmt: Führt Zahlenvergleich aus.|"Zahlen Eingabe"|"Die Zahlen sind gleich"|
+| 4.1  |Applikation gestartet: Führt Zahlenvergleich aus.|"Zahlen Eingabe"|"Die Zahl ist zu gross."|
+| 4.2  |Applikation gestartet: Führt Zahlenvergleich aus.|"Zahlen Eingabe"|"Die Zahl ist zu klein."|
+| 5.1  |Applikation wurde gestartet|" "| Die Textfarbe sollte in einer anderen Farbe sein.|
+| 6.1  |Applikation wurde durchgeführt|" "|"Sie haben 13 versuche gebraucht."|
+| 7.1  |Applikation gestartet, wartet auf Input.|"500"|"Geben Sie eine Zahl zwischen 1 - 500 ein: "|
+| 8.1  |Applikation gestartet, wartet auf Input.|"Banane"|"Geben Sie eine Zahl ein: "|
+| 8.2  |Applikation gestartet, wartet auf Input, Zahlenbereich ist 1 - 500|"1000"|"Geben Sie eine Zahl ein: "|
+
 
 ### 1.4 Diagramme
 ![PAPRNG3](https://user-images.githubusercontent.com/110892250/186109659-54723499-a508-4385-8ecd-bc080e7a66d7.png)
