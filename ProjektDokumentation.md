@@ -112,7 +112,7 @@ Ich habe mich entschieden, dass ich als zusätzliche User story hinzufüge das i
 | 1.2  |13.09.2022|"Geben Sie eine Zahl ein"|Stefan Jesenko|
 | 1.3  |13.09.2022|Eingabe wird gespeichert|Stefan Jesenko|
 | 2.1  |13.09.2022|Zufällige Zahl wird generiert|Stefan Jesenko|
-| 3.1  |13.09.2022|pogramm fährt weiter|Stefan Jesenko|
+| 3.1  |13.09.2022|Pogramm fährt weiter|Stefan Jesenko|
 | 3.2  |13.09.2022|"Ihre Zahl ist richtig."|Stefan Jesenko|
 | 4.1  |13.09.2022|"Ihre Zahl ist zu klein"|Stefan Jesenko|
 | 4.2  |13.09.2022|"Ihre Zahl ist zu gross"|Stefan Jesenko|
@@ -121,7 +121,7 @@ Ich habe mich entschieden, dass ich als zusätzliche User story hinzufüge das i
 | 7.1  |13.09.2022|"Schreiben Sie eine Zahl zwischen 1 und 500"|Stefan Jesenko|
 | 8.1  |13.09.2022|"Geben Sie eine Zahl ein"|Stefan Jesenko|
 | 8.2  |13.09.2022|"Geben Sie eine Zahl ein"|Stefan Jesenko|
-| 9.1  |13.09.2022|"Sie haben 13 sekunden gebraucht"|Stefan Jesenko|
+| 9.1  |13.09.2022|"Sie haben 13 Sekunden gebraucht"|Stefan Jesenko|
 | 10.1 |13.09.2022|"Wollen Sie weiterspielen[ja/nein]|Stefan Jesenko|
 | 10.2 |13.09.2022|"In welchem Zahlenbereich wollen Sie raten?"|Stefan Jesenko|
 | 10.3 |13.09.2022|Programmende|Stefan Jesenko|
@@ -132,7 +132,7 @@ Alle Testfälle haben bei mir funktioniert.
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |Programm wurde gestartet: Wartet auf Eingabe: (3) Wartet auf eingabe |-3|Die Zahl ist zu gross                   |Crash                      |
+| I    |Programm wurde gestartet: Wartet auf Eingabe: (3) Wartet auf Eingabe |-3|Die Zahl ist zu gross                   |Crash                      |
 | ...  |              |         |                   |                      |
 Das Programm wurde von Julius Burlet getestet.
 
