@@ -126,16 +126,16 @@ Ich habe mich entschieden, dass ich als zusätzliche User story hinzufüge das i
 | 10.2 |13.09.2022|"In welchem Zahlenbereich wollen Sie raten?"|Stefan Jesenko|
 | 10.3 |13.09.2022|Programmende|Stefan Jesenko|
 | 10.4 |13.09.2022|"Wollen Sie weiterspielen[ja/nein]|Stefan Jesenko|
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Alle Testfälle haben bei mir funktioniert.
 
 ### 5.2 Exploratives Testen
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
+| I    |Programm wurde gestartet: Wartet auf Eingabe: (3) Wartet auf eingabe |-3|Die Zahl ist zu gross                   |Crash                      |
 | ...  |              |         |                   |                      |
+Das Programm wurde von Julius Burlet getestet.
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
