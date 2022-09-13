@@ -139,4 +139,4 @@ Das Programm wurde von Julius Burlet getestet.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+[Hier](Lernbericht.md) ist mein Lern-Bericht.
