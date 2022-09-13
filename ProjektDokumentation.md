@@ -51,9 +51,9 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 8.2  |Applikation gestartet, wartet auf Input, Zahlenbereich ist 1 - 500|"1000"|"Geben Sie eine Zahl ein: "|
 | 9.1  |Applikation durchgeführt|" "|"Sie haben 13 Sekunden gebraucht "|
 | 10.1 |Applikation durchgeführt, wartet auf Eingabe|" "|"Wollen Sie weiter spielen (ja/nein)? "|
-| 10.1 |Applikation durchgeführt|"ja"|"In welchem Zahlenbereich wollen Sie raten? "|
-| 10.2 |Applikation durchgeführt|"nein"|Programmende|
-| 10.3 |Applikation durchgeführt|"Banane"|"Wollen Sie weiter spielen (ja/nein)? "|
+| 10.2 |Applikation durchgeführt|"ja"|"In welchem Zahlenbereich wollen Sie raten? "|
+| 10.3 |Applikation durchgeführt|"nein"|Programmende|
+| 10.4 |Applikation durchgeführt|"Banane"|"Wollen Sie weiter spielen (ja/nein)? "|
 
 ### 1.4 Diagramme
 ![PAPRNG3](https://user-images.githubusercontent.com/110892250/186109659-54723499-a508-4385-8ecd-bc080e7a66d7.png)
@@ -108,9 +108,24 @@ Ich habe mich entschieden, dass ich als zusätzliche User story hinzufüge das i
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
-
+| 1.1  |13.09.2022|"Schreiben Sie eine Zahl zwischen 1 und 100"|Stefan Jesenko|
+| 1.2  |13.09.2022|"Geben Sie eine Zahl ein"|Stefan Jesenko|
+| 1.3  |13.09.2022|Eingabe wird gespeichert|Stefan Jesenko|
+| 2.1  |13.09.2022|Zufällige Zahl wird generiert|Stefan Jesenko|
+| 3.1  |13.09.2022|pogramm fährt weiter|Stefan Jesenko|
+| 3.2  |13.09.2022|"Ihre Zahl ist richtig."|Stefan Jesenko|
+| 4.1  |13.09.2022|"Ihre Zahl ist zu klein"|Stefan Jesenko|
+| 4.2  |13.09.2022|"Ihre Zahl ist zu gross"|Stefan Jesenko|
+| 5.1  |13.09.2022|Ausgabe hat eine andere Farbe|Stefan Jesenko|
+| 6.1  |13.09.2022|"Sie haben 13 Versuche gebraucht"|Stefan Jesenko|
+| 7.1  |13.09.2022|"Schreiben Sie eine Zahl zwischen 1 und 500"|Stefan Jesenko|
+| 8.1  |13.09.2022|"Geben Sie eine Zahl ein"|Stefan Jesenko|
+| 8.2  |13.09.2022|"Geben Sie eine Zahl ein"|Stefan Jesenko|
+| 9.1  |13.09.2022|"Sie haben 13 sekunden gebraucht"|Stefan Jesenko|
+| 10.1 |13.09.2022|"Wollen Sie weiterspielen[ja/nein]|Stefan Jesenko|
+| 10.2 |13.09.2022|"In welchem Zahlenbereich wollen Sie raten?"|Stefan Jesenko|
+| 10.3 |13.09.2022|Programmende|Stefan Jesenko|
+| 10.4 |13.09.2022|"Wollen Sie weiterspielen[ja/nein]|Stefan Jesenko|
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ### 5.2 Exploratives Testen
