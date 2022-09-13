@@ -36,7 +36,7 @@ In diesem Code Beispiel sieht man wo und wie ich in meinem Code `try` `chatch` b
 In diesem Bild sieht man die Konsolenausgabe, wenn man keine Zahl eingibt.
 
 ## Verifikation
-Text: Mein Text beschreibt wie `try` `catch` funktioniert und wofür man es benutzen kann
+Text: Mein Text beschreibt wie `try` `catch` funktioniert und wofür man es benutzen kann.
 
 Code: Mein Code zeigt wie ich `try` `catch` benutzt habe.
 
