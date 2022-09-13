@@ -9,7 +9,7 @@ Ich habe in meinem Programm mit try und chatch geprüft ob die Eingabe des Users
 Try versucht den darin geschriebenen Code auszuführen, wenn die Eingabe einen Fehler ausgibt und das Programm abstürzen würde,
 geht das Programm zu der catch funktion und führt den Code aus der dort steht. So kann man einen Fehler vermeiden und dadurch kann das Programm auch bei einer Falschen Eingabe weiterlaufen.
 
-```
+```c#
  while (!int.TryParse(Eingabe, out num))
                 {
                     try
@@ -41,4 +41,14 @@ Code: Mein Code zeigt wie ich try catch benutzt habe.
 Bild: Das Bild zeigt was diese zeilen Code am ende in der Applikation ausgeben
 ## Reflektion zum Arbeitsprozess
 **Bei mir ist gut gelaufen?**
-Ich konnte immer motiviert an meinem Projekt arbeiten und 
+
+Ich konnte immer motiviert an meinem Projekt arbeiten und war nie abgelenkt.
+Ich versuche bei den anderen Projekten auch so motiviert zu arbeiten.
+
+**Bei mir ist nicht so gut gelaufen**
+
+Ich hatte etwas schlechte organisation, deswegen war ich im Realisieren nicht so effizient weil ich einfach angefangen habe zu Coden.
+Ich versuche bei meinem nexten Projekt mehr zu Planen und nicht einfach drauf los zu programmieren, damit ich nicht so viel zeit brauche um Code neu zu schreiben weil er mit dem rest des Programms nicht funktioniert.
+
+
+ 
