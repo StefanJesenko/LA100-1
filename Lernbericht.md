@@ -40,7 +40,7 @@ Text: Mein Text beschreibt wie `try` `catch` funktioniert und wofür man es benu
 
 Code: Mein Code zeigt wie ich `try` `catch` benutzt habe.
 
-Bild: Das Bild zeigt, was diese Zeilen Code am Ende in der Applikation ausgeben
+Bild: Das Bild zeigt, was diese Zeilen Code am Ende in der Applikation ausgeben werden.
 
 ## Reflexion zum Arbeitsprozess
 **Bei mir ist gut gelaufen:**
