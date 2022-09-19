@@ -27,7 +27,7 @@ ich mache einen Random Number Generator, bei dem der Benutzer eine Zahl zwischen
 | 5    | kann            | Qualität | Als User möchte ich, dass ich die Farbe des Textes ändern kann, damit das Spiel für mich schöner aussieht.|
 | 6    | kann            | Qualität | Als User möchte ich, dass mir Angezeigt wird wie viele Versuche ich gebraucht habe.|
 | 7    | kann            | Qualität | Als User möchte ich den Zahlenbereich in dem ich rate selber wehlen.|
-| 8    | kann            | muss     | Als User möchte ich, dass wenn ich etwas anderes als eine Zahl in dem gewünschten Zahlenbereich eingebe dass eine Meldung kommt, dass ich eine neue Zahl eingeben soll.|
+| 8    | kann            | Qualität| Als User möchte ich, dass wenn ich etwas anderes als eine Zahl in dem gewünschten Zahlenbereich eingebe dass eine Meldung kommt, dass ich eine neue Zahl eingeben soll.|
 | 9    | kann            | Qualität| Als User möchte ich, dass ich am ende sehe, wie lange ich gebraucht habe.|
 | 10   | kann            | Qualität| Als User möchte gefragt werde, ob ich noch einmal spielen will.|
 
